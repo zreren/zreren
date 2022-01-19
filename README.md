@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Lin JingCheng.   
 a computer science enthusiast.   
-visit my website:https://zreren.cn/
+visit my website:https://zreren.cn/.   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zreren)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zreren/zreren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
